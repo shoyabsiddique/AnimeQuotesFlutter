@@ -1,16 +1,13 @@
-# quotes
+Anime quotes app for flutter. 
 
-A new Flutter project.
+Built for people who love anime. 
 
-## Getting Started
+Made in flutter with an anime api, 
 
-This project is a starting point for a Flutter application.
+it fetches anime and displays quotes from it on the screen.
 
-A few resources to get you started if this is your first Flutter project:
+Requirements
+Any Operating System (ie. MacOS X, Linux, Windows)
+Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
+A little knowledge of Dart and Flutter
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
